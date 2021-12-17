@@ -7,7 +7,7 @@ This subset describes 1000 patients subjected to inguinal hernia operation under
 
 The observations are made every 30 seconds.
 
-The set have two sections :
+The data set has two sections:
 
 - Univariate: each file is specific to a variable and contains the 1000 time series for this variable
 - Multivariate: each patient is described through two files, one for the event trace, and one for the multivariate time series.
